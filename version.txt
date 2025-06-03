@@ -1,2 +1,2 @@
-version-ad3ee47cdc5e44f6
-https://github.com/Fynnmaster9000/skidblox/releases/download/roblox/WEAO-LIVE-WindowsPlayer-version-ad3ee47cdc5e44f6.zip
+version-e1da58b32b1c4d64
+https://rdd.weao.xyz/?channel=LIVE&binaryType=WindowsPlayer
